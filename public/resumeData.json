@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Anurag Sharan",
+    "occupation": "Javascript Developer and Tech Lead at DSC REVA",
+    "description": "Full stack web developer building websites using React and Express.",
+    "image": "anurag.jpeg",
+    "bio": "I am Anurag Sharan, a full stack web developer from India. Currently, I am studying Coumputer Science in REVA University, Bangalore. ",
+    "contactmessage": "Get in touch with me to hire me, collaborate on projects or anything else.",
+    "email": "sharananurag998@gmail.com",
+    "phone": "+91 7761933705",
+    "address": {
+      "street": "D-106, REVA University, Rukmini Knowledge Park",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560064"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/anurag.sharan3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anuragsharan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sharananurag998/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sharananurag998",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a full stack web developer skilled in both frontend and backend web development technologies.",
+    "education": [
+      {
+        "school": "REVA University",
+        "degree": "Bachelors in Computer Science and Engineering",
+        "graduated": "August 2022",
+        "description": "Currently Studying"
+      }
+    ],
+    "work": [
+      {
+        "company": "Developer Student Club, REVA University",
+        "title": "Tech Lead",
+        "years": "August 2020 - Present",
+        "description": "Organized workshops and development related events on campus."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "Django",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "40%"
+      },
+      {
+        "name": "Express.js",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "REVA Events",
+        "category": "An event management application for REVA University built using Flask",
+        "image": "revaevents.png",
+        "url": "https://github.com/sharananurag998/REVA_Events"
+      },
+      {
+        "title": "Covid Surveillance",
+        "category": "A web app for monitoring the Covid-19 outbreak in India with machine learning models like face mask detection and social distancing detection.",
+        "image": "covidsurveillance.png",
+        "url": "https://github.com/sharananurag998/CovidSurveillance"
+      },
+      {
+        "title": "SurakShare",
+        "category": "A decentralized, peer-to-peer file sharing application for Android built using React Native",
+        "image": "surakshare.png",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6696117508921024512/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "A Netflix homepage Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://github.com/sharananurag998/netflix-clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Anurag is an excellent programmer who can pick up new concepts easily. His drive to work and complete projects is something that I haven't seen in anyone else.",
+        "user": "Raj Bandhu"
+      }
+    ]
+  }
+}
